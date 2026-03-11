@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm  Vaishnavichalapati 👋
 
-<!--
-**vaishnavichalapati/vaishnavichalapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Artificial Intelligence, and Python
 
-Here are some ideas to get you started:
+## Projects
+🔹 Automated Scoliosis Detection using GAN  
+🔹 AI Based Dream Visualiser
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python |  GitHub
+
+## About Me
+I am a Computer Science student passionate about AI and building intelligent systems. I enjoy working on Python projects and exploring new technologies.
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/vaishnavi-chalapati-3257a12b1
+
