@@ -1,4 +1,4 @@
-# Hi, I'm  Vaishnavichalapati 👋
+# Hi, I'm  Vaishnavichalapati 
 
 🎓 Computer Science Student  
 💻 Interested in Artificial Intelligence, and Python
